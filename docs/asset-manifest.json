@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lern-app/static/js/main.b4da9c51.js",
+    "index.html": "/lern-app/index.html",
+    "main.b4da9c51.js.map": "/lern-app/static/js/main.b4da9c51.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b4da9c51.js"
+  ]
+}
