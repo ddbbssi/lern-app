@@ -1,0 +1,92 @@
+[
+  {
+    "nummer": 1,
+    "frage": "Welche Funktionen hat die Ausbildungsordnung (AO) im Rahmen der betrieblichen Ausbildung?",
+    "antwort": "Sie ist die rechtsverbindliche Grundlage, sorgt für bundeseinheitliche Ausbildung, regelt Inhalt, Ablauf und Prüfungsanforderungen."
+  },
+  {
+    "nummer": 2,
+    "frage": "Was wird im Einzelnen in der AO geregelt?",
+    "antwort": "Berufsbezeichnung, Dauer, Ausbildungsrahmenplan, Prüfungsanforderungen, Berichtsheftpflicht usw."
+  },
+  {
+    "nummer": 3,
+    "frage": "Welches Ziel soll im Rahmen der betrieblichen Ausbildung im Hinblick auf den Auszubildenden erreicht werden?",
+    "antwort": "Der Erwerb beruflicher Handlungskompetenz; selbstständiges Planen, Durchführen und Kontrollieren."
+  },
+  {
+    "nummer": 4,
+    "frage": "Was bedeutet der Begriff 'betriebliche Eignung/Eignung der Ausbildungsstätte'?",
+    "antwort": "Ausbildungsbetrieb muss alle Fertigkeiten, Kenntnisse und Fähigkeiten vermitteln können; ausreichende Ausstattung, Fachkräfte, Sicherheit."
+  },
+  {
+    "nummer": 5,
+    "frage": "Welchen Zweck verfolgt die betriebliche Ausbildungsplanung?",
+    "antwort": "Vermittlung aller Ausbildungsinhalte, Sicherstellung der Ausbildungsziele, Motivation, Orientierung, Kontrolle des Ausbildungsstands."
+  },
+  {
+    "nummer": 6,
+    "frage": "Welchen Grundfragen folgt die betriebliche Ausbildungsplanung?",
+    "antwort": "Was, wann, wo und durch wen werden Inhalte vermittelt?"
+  },
+  {
+    "nummer": 7,
+    "frage": "Welche Einflussfaktoren müssen bei der Ausbildungsplanung berücksichtigt werden?",
+    "antwort": "Zeitliche, betriebliche und persönliche Faktoren (z. B. Ausbildungsrahmenplan, Azubi-Voraussetzungen, Urlaubszeiten)."
+  },
+  {
+    "nummer": 8,
+    "frage": "Welche Arten von Ausbildungsplänen gibt es?",
+    "antwort": "Gesamtbetrieblicher Plan, individueller Plan, Versetzungs-, Probezeit- und Prüfungsplan."
+  },
+  {
+    "nummer": 9,
+    "frage": "Welche Funktionen erfüllt das Berichtsheft/der Ausbildungsnachweis?",
+    "antwort": "Rechtlicher Nachweis, Prüfungsvoraussetzung, pädagogische Funktion, Lernerfolgskontrolle."
+  },
+  {
+    "nummer": 10,
+    "frage": "Wie sollte das Führen und Kontrollieren von Ausbildungsnachweisen geregelt werden?",
+    "antwort": "Wöchentlich führen, monatlich kontrollieren, betriebliche Zeit zur Verfügung stellen, kostenlos bereitstellen."
+  },
+  {
+    "nummer": 11,
+    "frage": "Welche Funktionen erfüllt die Probezeit in der Ausbildung?",
+    "antwort": "Eignungsfeststellung, gegenseitiges Kennenlernen, gesonderte Ausbildungsplanung."
+  },
+  {
+    "nummer": 12,
+    "frage": "In welchen Schritten erfolgt das Einstellungsverfahren eines Azubis?",
+    "antwort": "Anforderungsprofil, Anzeige, Akquise, Bewerbung, Eignungstest, Vorstellungsgespräch, evtl. Praktikum."
+  },
+  {
+    "nummer": 13,
+    "frage": "Was ist das Besondere am Berufsausbildungsvertrag (BAV)?",
+    "antwort": "Beinhaltet erzieherische Verpflichtungen, befristet, schriftlich vor Beginn, Eintragung bei Kammer notwendig."
+  },
+  {
+    "nummer": 14,
+    "frage": "Welche Mindestinhalte enthält der BAV?",
+    "antwort": "Name, Art, Dauer, Ausbildungszeit, Vergütung, Urlaub, Kündigung, Ausbildungsnachweis usw."
+  },
+  {
+    "nummer": 15,
+    "frage": "Was darf nicht im BAV vereinbart werden?",
+    "antwort": "Vertragsstrafen, Entschädigungszahlungen, Festlegungen über Zeit nach der Ausbildung, rechtswidrige Inhalte."
+  },
+  {
+    "nummer": 16,
+    "frage": "Welche Pflichten übernimmt der Ausbildende?",
+    "antwort": "Ausbildungspflicht, geeigneter Ausbilder, Freistellung, Kontrolle, Erziehungspflicht, Sicherheit, Anmeldung zu Prüfungen usw."
+  },
+  {
+    "nummer": 17,
+    "frage": "Welche Pflichten übernimmt der Azubi?",
+    "antwort": "Lernpflicht, Teilnahme an Unterricht/Prüfungen, Weisungsgebundenheit, Sorgfalt, Ordnung, Verschwiegenheit, Berichtsheftpflicht."
+  },
+  {
+    "nummer": 18,
+    "frage": "Wie sollte die Einführung eines Azubis in den Betrieb gestaltet werden?",
+    "antwort": "Begrüßung, Vorstellung, Sicherheitsunterweisung, Patenmodell, Betrieb zeigen, Werkzeug & Kleidung übergeben."
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "nummer": 1,
+    "frage": "Was wird in der Abschlussprüfung überprüft?",
+    "antwort": "Ob der Auszubildende berufliche Handlungsfähigkeit besitzt, d. h. ob er selbstständig planen, durchführen und kontrollieren kann (§38 BBiG)."
+  },
+  {
+    "nummer": 2,
+    "frage": "Wie oft kann die Abschlussprüfung wiederholt werden?",
+    "antwort": "Zweimal, innerhalb eines Jahres (§37 Abs.1 BBiG)."
+  },
+  {
+    "nummer": 3,
+    "frage": "Wer meldet den Auszubildenden zur Abschlussprüfung an und wer zahlt die Prüfungsgebühren?",
+    "antwort": "Der Ausbildende meldet an und zahlt die Gebühren sowie stellt Materialien und Werkzeug kostenlos bereit."
+  },
+  {
+    "nummer": 4,
+    "frage": "Was sind die Zulassungsvoraussetzungen zur Abschlussprüfung?",
+    "antwort": "Reguläre Ausbildungszeit, Teilnahme an Zwischenprüfung, Eintragung im Verzeichnis, ordnungsgemäß geführte Berichtshefte (§43 BBiG)."
+  },
+  {
+    "nummer": 5,
+    "frage": "Wann und wie sollte im Betrieb die Vorbereitung auf die Abschlussprüfung beginnen?",
+    "antwort": "Ab Ausbildungsbeginn, gezielt im letzten halben Jahr mit Prüfungsplan und Wiederholung der relevanten Inhalte."
+  },
+  {
+    "nummer": 6,
+    "frage": "Wann endet die Ausbildung?",
+    "antwort": "Mit Ablauf der Ausbildungszeit oder bei vorgezogener Prüfung mit Bekanntgabe des Ergebnisses (§21 BBiG)."
+  },
+  {
+    "nummer": 7,
+    "frage": "Wie ist der Prüfungsausschuss besetzt?",
+    "antwort": "Mindestens drei sachkundige Personen: ein Arbeitgeber-, ein Arbeitnehmervertreter und ein Berufsschullehrer (§40 BBiG)."
+  },
+  {
+    "nummer": 8,
+    "frage": "Wie ist die vorzeitige Zulassung zur Abschlussprüfung geregelt?",
+    "antwort": "Bei überdurchschnittlichen Leistungen kann vorzeitig zugelassen werden (§45 BBiG), Zustimmung von Ausbildendem & Schule notwendig."
+  },
+  {
+    "nummer": 9,
+    "frage": "Unter welchen Bedingungen kann oder muss die Ausbildung verlängert werden?",
+    "antwort": "Bei Nichtbestehen auf Verlangen des Azubis (§21 BBiG); auf Antrag, wenn Ausbildungsziel gefährdet ist (§8 BBiG)."
+  },
+  {
+    "nummer": 10,
+    "frage": "Wie ist die Kündigung des Ausbildungsverhältnisses im BBiG geregelt?",
+    "antwort": "Während Probezeit fristlos, danach nur mit Grund oder bei Berufsaufgabe (schriftlich, mit Begründung, §22 BBiG)."
+  },
+  {
+    "nummer": 11,
+    "frage": "Welchen Rechtsanspruch hat ein Auszubildender im Hinblick auf das Ausbildungszeugnis?",
+    "antwort": "Anspruch auf einfaches oder qualifiziertes Zeugnis; fertig zum letzten Ausbildungstag; ggf. Unterschrift des Ausbilders (§16 Abs.1 BBiG)."
+  },
+  {
+    "nummer": 12,
+    "frage": "Welche Bestandteile enthält das einfache Zeugnis?",
+    "antwort": "Name, Anschrift, Beruf, Dauer, erworbene Kenntnisse, Ort, Datum, Unterschriften (§16 Abs.2 BBiG)."
+  },
+  {
+    "nummer": 13,
+    "frage": "Welche Bestandteile enthält das qualifizierte Zeugnis?",
+    "antwort": "Alle Inhalte des einfachen Zeugnisses plus: Leistung, Verhalten, ggf. Zusatzkenntnisse – keine Negativformulierungen (§16 Abs.2 BBiG)."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "nummer": 1,
+    "frage": "Wer ist an der Ausbildung beteiligt?",
+    "antwort": "Zuständige Stelle (HWK, IHK), zuständige Behörde (z.B. Schulamt, BezReg), Ausbildender, Ausbilder, Auszubildender, Lehrer, Betriebsrat, JAV, Institutionen (z.B. Bundesagentur für Arbeit), Ausbildungsbeauftragter, Eltern/Erziehungsberechtigte"
+  },
+  {
+    "nummer": 2,
+    "frage": "Wie wird das Rollenverständnis von Ausbildern beschrieben?",
+    "antwort": "Er ist Fachmann, Lernbegleiter, Gruppenbetreuer, Organisator, Vertrauter, Vermittler, Motivator,…"
+  },
+  {
+    "nummer": 3,
+    "frage": "Welche Aufgaben haben Sie als Ausbilder?",
+    "antwort": "Planung, Durchführung und Kontrolle der Ausbildung, Überwachungspflicht, Fürsorgepflicht."
+  },
+  {
+    "nummer": 4,
+    "frage": "Welche Aufgaben haben ausbildende Fachkräfte / Ausbildungsbeauftragte in der beruflichen Ausbildung?",
+    "antwort": "Der Ausbildungsbeauftragte hat die Aufgabe den Ausbilder bei der Durchführung der Ausbildung zu unterstützen, also die Vermittlung und Vertiefung spezieller Fachkenntnisse, praxisbezogenen Unterweisungen, Beurteilung der Auszubildenden."
+  },
+  {
+    "nummer": 5,
+    "frage": "Welche Eignungen muss der Ausbilder haben?",
+    "antwort": "Der Ausbilder muss die fachliche und damit auch die berufs- und arbeitspädagogische und die persönliche Eignung haben."
+  },
+  {
+    "nummer": 6,
+    "frage": "Welche Aufgaben haben die zuständigen Stellen?",
+    "antwort": "Überwachung der Ausbildung, Feststellen der Eignungen, Entscheiden über Verkürzungen und Verlängerungen, Berufung von Prüfungsausschüssen, Durchführung von Prüfungen, Versagen der Zustimmung einer Ausbildung"
+  },
+  {
+    "nummer": 7,
+    "frage": "Warum bilden Betriebe aus? Nennen Sie 4 plausible Argumente!",
+    "antwort": "Geringe Einarbeitungskosten, Imagegewinn, weniger Personalwechsel, weniger Fehlbesetzungen, bessere Qualifikation, Verjüngung der Stammbelegschaft, keine Werbemaßnahmen, keine zusätzlichen Einstellungsgespräche, Kostenreduzierung durch sinnvollen Einsatz unter Zugrundelegung des ARP im Unternehmen"
+  },
+  {
+    "nummer": 8,
+    "frage": "Wann ist ein Betrieb für die Ausbildung geeignet?",
+    "antwort": "Die Ausbildungsstätte muss nach Art und Einrichtung geeignet sein. Die Zahl der Auszubildenden muss in einem angemessenen Verhältnis zur Zahl der beschäftigten Fachkräfte stehen."
+  },
+  {
+    "nummer": 9,
+    "frage": "Welchen Nutzen hat die duale Berufsausbildung für die Gesellschaft?",
+    "antwort": "Senkung der Jugendarbeitslosigkeit, höheres Qualifikationsniveau, Einbindung in die Sozialsysteme"
+  },
+  {
+    "nummer": 10,
+    "frage": "Welche Arten der Personalentwicklung werden nach dem BBiG unterschieden?",
+    "antwort": "Berufsausbildungsvorbereitung, Berufsausbildung, berufliche Fortbildung, berufliche Umschulung"
+  },
+  {
+    "nummer": 11,
+    "frage": "Was ist eine horizontale Versetzung?",
+    "antwort": "Erweiterungsfortbildung, Erhaltungsfortbildung, Anpassungsfortbildung"
+  },
+  {
+    "nummer": 12,
+    "frage": "Was kostet eine Berufsausbildung?",
+    "antwort": "Personalkosten der Auszubildenden und der an der Ausbildung Beteiligten, Anlage- und Sachkosten, sonstige Kosten (z.B. Gebühren, Kleidung, …)"
+  },
+  {
+    "nummer": 13,
+    "frage": "Welchen Nutzen hat eine Berufsausbildung für Schüler u/o Ausbildungsinteressierte?",
+    "antwort": "Sicherung der wirtschaftlichen Existenz, sozialer Status, Selbstverwirklichung, Ansehen im Freundeskreis, Aufstiegsmöglichkeiten durch Ausbildungsabschluss, Karriere"
+  },
+  {
+    "nummer": 14,
+    "frage": "Wie ist die duale Berufsausbildung organisiert?",
+    "antwort": "Betrieb – praktische Ausbildung aufgrund der bundeseinheitlichen Ausbildungsordnung, Berufsschule – theoretische Ausbildung aufgrund der landesspezifischen Rahmenlehrpläne"
+  },
+  {
+    "nummer": 15,
+    "frage": "Wie ermittelt man die Anzahl der benötigten Auszubildenden?",
+    "antwort": "Grundlagen: Personalbedarfsermittlung, Personalentwicklung, Personalplanung, vorgeschriebene Bedingungen für eine Ausbildung"
+  },
+  {
+    "nummer": 16,
+    "frage": "Welche Verbundmodelle gibt es?",
+    "antwort": "Auftragsausbildung, Leitbetrieb, Konsortium, Ausbildungsverein"
+  },
+  {
+    "nummer": 17,
+    "frage": "Welche gesetzlichen Grundlagen regeln die Berufsausbildung?",
+    "antwort": "Ausbildungsordnung, Ausbildungsrahmenplan, Rahmenlehrplan"
+  },
+  {
+    "nummer": 18,
+    "frage": "Wie entsteht ein neuer Ausbildungsberuf im dualen Ausbildungssystem?",
+    "antwort": "Auf der Grundlage des BBiG §4 werden auf Antrag der Wirtschaftsverbände vom Bundesinstitut für Berufsbildung (BiBB) in Koordination mit der Kultusministerkonferenz (KMK) Ausbildungsordnungen für anerkannte Ausbildungsberufe entwickelt"
+  },
+  {
+    "nummer": 19,
+    "frage": "Welches sind die 4 Formen von dualen Studiengängen?",
+    "antwort": "Ausbildungs-, praxis-, berufsintegrierte, berufsbegleitende"
+  },
+  {
+    "nummer": 20,
+    "frage": "Welche Inhalte hat eine Ausbildungsordnung?",
+    "antwort": "Bezeichnung des Ausbildungsberufes, Ausbildungsdauer, Berufsbild, Ausbildungsrahmenplan, Prüfungsanforderung"
+  },
+  {
+    "nummer": 21,
+    "frage": "Welches sind die wesentlichen Gesetze und Verordnungen in der dualen Berufsausbildung?",
+    "antwort": "BBiG, BetrVG, JArbSchG, MuSchuG, AGG, SchwerbG, AZG, Bundesurlaubsgesetz, Kündigungsschutzgesetz, Tarifvertragsgesetz, AEVO, Ausbildungsordnung,…"
+  },
+  {
+    "nummer": 22,
+    "frage": "Welches sind die wesentlichen Inhalte des Berufsbildungsgesetzes?",
+    "antwort": "Rechte und Pflichten des Azubis und des Ausbilders, Anrechnung von vorangegangenen Ausbildungen, Ausbildungsvertrag, Vertragsniederschriften, Freistellung zur Berufsschule, Vergütung, Bemessung und Fälligkeit der Vergütung, Probezeit, Eignungen, Kündigungen,…"
+  },
+  {
+    "nummer": 23,
+    "frage": "Was verlangt das Jugendarbeitsschutzgesetz? Nennen Sie 10 Punkte!",
+    "antwort": "Beschäftigungsverbot von Kindern, Freistellung für die Berufsschule, Ruhezeiten, Pausenzeiten, Urlaubszeiten, Arbeitszeiten, Erstuntersuchung, Züchtigungsverbot, Nachtruhe, Fünf-Tage-Woche, Sonn- und Feiertagsruhe"
+  },
+  {
+    "nummer": 24,
+    "frage": "Wie ist die Mitbestimmung im Zusammenhang mit Ausbildung geregelt?",
+    "antwort": "Unterrichtungspflicht vor der Einstellung, Ausbilderauswahl, Auswahlkriterien, JAV, Mitwirkung und Mitbestimmung bei Einstellung und Kündigung"
+  },
+  {
+    "nummer": 25,
+    "frage": "Wie ist das deutsche Schulsystem aufgebaut?",
+    "antwort": "Primärstufe, Sekundarstufe, Tertiärstufe (Meister, Techniker, Fachwirte) und Quartärstufe (Master, Dr.)"
+  },
+  {
+    "nummer": 26,
+    "frage": "Was passiert wenn nicht alle Ausbildungsinhalte vermittelt werden können?",
+    "antwort": "Interne Hilfen durch Fachkräfte, externe Hilfen im Verbund oder durch ABH, Nachhilfe, sonstige Partner"
+  },
+  {
+    "nummer": 27,
+    "frage": "Wie stellt sich die Eignung der an der Ausbildung Beteiligten dar?",
+    "antwort": "Unterscheidung von persönlicher und fachlicher Eignung, ergänzt um die berufs- und arbeitspädagogische Eignung."
+  },
+  {
+    "nummer": 28,
+    "frage": "Wie ist das Untersagen des Einstellens und Ausbildens nach § 33 BBiG geregelt?",
+    "antwort": "Das Einstellen und Ausbilden kann untersagt werden, wenn z.B. die Art der Ausbildungsstätte, die Ausstattung bzw. Einrichtung, die Anzahl der Ausbildungsplätze, die Anzahl Fachkräfte, Ausbilder, Ausbildungsbeauftragten oder die Eignungen nicht den gesetzlichen Vorschriften entsprechen."
+  },
+  {
+    "nummer": 29,
+    "frage": "Was ist hinsichtlich der Unfallprävention während der Ausbildung zu beachten?",
+    "antwort": "Regelungen im JArbSchG, ArbSchG, DGUV sind zu beachten. Alle halbe Jahre sind Unterweisungen bei Jugendlichen und einmal jährlich bei Erwachsenen durchzuführen – immer arbeitsplatzbezogen, tätigkeitsbezogen, personenbezogen."
+  },
+  {
+    "nummer": 30,
+    "frage": "Wieso ist die Berufsschulpflicht in jedem Bundesland unterschiedlich geregelt?",
+    "antwort": "Die Kulturhoheit und somit die primäre Zuständigkeit bezüglich der Gesetzgebung und Verwaltung auf dem Gebiet der Kultur – also insbesondere die Zuständigkeit für Sprache, Schul- und Hochschulwesen, Bildung, Rundfunk, Fernsehen und Kunst – liegt bei den Bundesländern."
+  }
+]
